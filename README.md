@@ -1,4 +1,4 @@
 tmTheme
 =======
 
-My Sublime Text theme
+Theme for Textmate or Sublime Text.
