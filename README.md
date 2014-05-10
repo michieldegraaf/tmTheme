@@ -1,4 +1,4 @@
 tmTheme
 =======
 
-Theme for Textmate or Sublime Text.
+Theme for Textmate, Sublime Text and Atom.
